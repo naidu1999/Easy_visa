@@ -1,3 +1,5 @@
+🚀 **Live demo:** https://naidu1999.github.io/Easy_visa/
+
 # Easy_visa
 # 🌍 EasyVisa – US Visa Approval Prediction Using Machine Learning
 
